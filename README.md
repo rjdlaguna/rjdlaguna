@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rjdlaguna
 - 👀 I’m interested in technologies relating to mobile and web development, cybersecurity and programming. 
 - 🌱 I’m currently learning JavaScript, its frameworks and PHP.
-- 💞️ I’m looking to collaborate on creating mobile web application.
+- 💞️ I’m looking to collaborate on creating a responsive landing page using React or Vue.
 - 📫 How to reach me by sending an email here: rjdlaguna@gmail.com,
 
 <!---
