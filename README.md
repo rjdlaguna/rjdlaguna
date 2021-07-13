@@ -2,7 +2,7 @@
 - 👀 I’m interested in technologies relating to mobile and web development, cybersecurity and programming. 
 - 🌱 I’m currently learning JavaScript, its frameworks and PHP.
 - 💞️ I’m looking to collaborate on creating a responsive landing page using React or Vue.
-- 📫 How to reach me by sending an email here: rjdlaguna@gmail.com,
+- 📫 You can reach me by sending an email here: rjdlaguna@gmail.com or by sending me a message thru my LinkedIn account: https://www.linkedin.com/in/rene-laguna-jr/
 
 <!---
 rjdlaguna/rjdlaguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
